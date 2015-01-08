@@ -1,0 +1,16 @@
+.
+..
+.bzr
+.cproject
+.project
+.settings
+tags
+install_manifest.txt
+*/Make*
+Make*
+cmake_install.cmake
+bin
+src/x-server
+src/CMakeCache.txt
+core
+cscope.out
